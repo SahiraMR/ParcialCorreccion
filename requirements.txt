@@ -1,8 +1,3 @@
-# Crear el entorno virtual (si no lo tienes)
-python -m venv .venv
-
-# Activar el entorno virtual (Windows)
-.venv\Scripts\activate
-
-# Activar el entorno virtual (Linux/macOS)
-source .venv/bin/activate
+fastapi
+uvicorn
+python-multipart
