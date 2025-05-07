@@ -1,0 +1,6 @@
+id,nombre,descripcion,fecha_creacion,fecha_modificacion,estado,usuario
+1,Revisión de código,Verificar errores en el módulo de pagos,2025-05-01,2025-05-02,Pendiente,1
+3,Pruebas de seguridad,Ejecutar pruebas de vulnerabilidad,2025-05-02,2025-05-05,Realizada,2
+4,Reunión semanal,Planificar reunión con el equipo,2025-05-01,2025-05-01,Cancelada,4
+5,Optimización de base de datos,Mejorar rendimiento de consultas,2025-05-04,2025-05-06,Pendiente,5
+20,string,string,2025-05-07,2025-05-07,Pendiente,0
